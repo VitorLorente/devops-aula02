@@ -1,5 +1,6 @@
 # devops-aula02
 
 Johnny Depp, 
-Selton Mello,
-Anthony Hopkins
+Adam Sandler,
+Anthony Hopkins,
+Jim Carry
